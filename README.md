@@ -1,2 +1,2 @@
 # College-Basketball-Analysis-And-Predictor
-Exploring college basketabll over the past decade
+Exploring college basketball over the past decade
